@@ -54,7 +54,7 @@ nav {
         margin-left: 50px;
 }
 
-ul.nav {
+ul.nav > li > a {
         color: White;
         font-size: 5;
 }
