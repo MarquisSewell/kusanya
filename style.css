@@ -52,10 +52,4 @@ nav {
         opacity:0.9;
         margin-top: 100px;
         margin-left: 50px;
-        color: White;
-}
-
-nav > li > a:hover {
-        color: White;
-        background-color: transparent;      
 }
