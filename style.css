@@ -42,15 +42,20 @@ body#contact {
         background-repeat: no-repeat;
 }
 
-nav{    
-  width: 150px;
-  float: left;
-  display: inline;
-  margin: 0;
-  padding:300;
-  margin-right: 10px;
-  opacity:0.9;
-  margin-top: 100px;
-  margin-left: 50px;
+nav {    
+        width: 150px;
+        float: left;
+        display: inline;
+        margin: 0;
+        padding:300;
+        margin-right: 10px;
+        opacity:0.9;
+        margin-top: 100px;
+        margin-left: 50px;
+        color: White;
 }
+
+li > a:hover {
+        color: White;
+        background-color: transparent;      
 }
