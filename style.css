@@ -54,7 +54,7 @@ nav {
         margin-left: 50px;
 }
 
-navbar-inverse navbar.nav > li > a:hover {
+navbar-stacked > li > a:hover {
         color: White;
         background-color: transparent;
 }
