@@ -53,3 +53,8 @@ nav {
         margin-top: 100px;
         margin-left: 50px;
 }
+
+navbar.nav > li > a:hover {
+        color: White;
+        background-color: transparent;
+}
