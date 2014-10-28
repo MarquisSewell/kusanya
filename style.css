@@ -41,22 +41,3 @@ body#contact {
         background-size: cover;
         background-repeat: no-repeat;
 }
-
-nav {    
-        display: inline;
-        margin: 0;
-        padding:300;
-        margin-right: 10px;
-        opacity:0.9;
-}
-
-.navbar {
-        margin-top: 100px;
-        margin-left: 50px;
-}
-
-li {
-        list-style-type: none;
-        width: 150px;
-        float: left;  
-}
