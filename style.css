@@ -54,12 +54,8 @@ nav {
         margin-left: 50px;
 }
 
-ul.nav > li > a {
+ul.nav > li > a, a:hover {
         color: White;
         font-size: 5;
-}
-
-ul.nav > li > a:hover {
-        color: White;
         background-color: transparent;
 }
