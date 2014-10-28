@@ -55,7 +55,7 @@ nav {
         color: White;
 }
 
-li > a:hover {
+nav > li > a:hover {
         color: White;
         background-color: transparent;      
 }
