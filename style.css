@@ -72,17 +72,13 @@ footer {
         height: 100px;
         background-color: Black;
         opacity:0.9;
-        padding: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
 }
 
 footer > p, footer > a {
         color: White;
         font-size: 30px;
         text-align:center;
-}
-
-footer > img {
-        width: 50%;
-        height: auto;
 }
 
