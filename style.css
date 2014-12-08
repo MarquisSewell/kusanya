@@ -81,7 +81,7 @@ footer > p, footer > a {
 }
 
 footer > img {
-        width: 50;
-        height: 50;
+        height: 50%;
+        width: auto;
 }
 
